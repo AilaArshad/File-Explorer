@@ -1,0 +1,91 @@
+﻿  BST.cpp
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(67,9): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'BST.cpp')
+  
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(70,14): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'BST.cpp')
+  
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(85,5): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'BST.cpp')
+  
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(101,10): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'BST.cpp')
+  
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(124,9): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'BST.cpp')
+  
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(127,14): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'BST.cpp')
+  
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(141,5): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'BST.cpp')
+  
+  Directory.cpp
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(67,9): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'Directory.cpp')
+  
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(70,14): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'Directory.cpp')
+  
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(85,5): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'Directory.cpp')
+  
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(101,10): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'Directory.cpp')
+  
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(124,9): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'Directory.cpp')
+  
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(127,14): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'Directory.cpp')
+  
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(141,5): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'Directory.cpp')
+  
+  File handling.cpp
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(67,9): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'File%20handling.cpp')
+  
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(70,14): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'File%20handling.cpp')
+  
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(85,5): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'File%20handling.cpp')
+  
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(101,10): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'File%20handling.cpp')
+  
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(124,9): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'File%20handling.cpp')
+  
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(127,14): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'File%20handling.cpp')
+  
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(141,5): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'File%20handling.cpp')
+  
+  File.cpp
+  Stack.cpp
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(67,9): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'Stack.cpp')
+  
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(70,14): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'Stack.cpp')
+  
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(85,5): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'Stack.cpp')
+  
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(101,10): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'Stack.cpp')
+  
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(124,9): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'Stack.cpp')
+  
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(127,14): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'Stack.cpp')
+  
+C:\Users\Admin\Desktop\Visual Studio\File handling\File handling\DLL.h(141,5): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'Stack.cpp')
+  
+  Generating Code...
+  File handling.vcxproj -> C:\Users\Admin\Desktop\Visual Studio\File handling\x64\Debug\File handling.exe
